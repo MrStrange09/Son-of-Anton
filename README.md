@@ -1,8 +1,9 @@
 # Son-of-Anton
-IMAGE PROCESSING APP USING MATLAB (ENHANCE, ENCRYPT, STEGANOGRAPHY AND EPICYCLES)
+IMAGE PROCESSING APP USING MATLAB 
+(ENHANCE, ENCRYPT, STEGANOGRAPHY AND EPICYCLES)
 
 Instructions:
-Just download the whole while and run Main.m on MATLAB.
+Just download the whole file and run Main.m on MATLAB.
 [Research paper](https://github.com/MrStrange09/Son-of-Anton/blob/main/Research%20paper.pdf)
 [Project report](https://github.com/MrStrange09/Son-of-Anton/blob/main/Project%20Report.pdf)
 [Poster](https://github.com/MrStrange09/Son-of-Anton/blob/main/Poster.pdf)
