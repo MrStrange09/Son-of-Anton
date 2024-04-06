@@ -4,14 +4,20 @@ IMAGE PROCESSING APP USING MATLAB (ENHANCE, ENCRYPT, STEGANOGRAPHY AND EPICYCLES
 Instructions:
 Just download the whole while and run Main.m on MATLAB.
 [Research paper](https://github.com/MrStrange09/Son-of-Anton/blob/main/Research%20paper.pdf)
+[Project report](https://github.com/MrStrange09/Son-of-Anton/blob/main/Project%20Report.pdf)
+[Poster](https://github.com/MrStrange09/Son-of-Anton/blob/main/Poster.pdf)
 
 Images:
 
-![image](https://github.com/MrStrange09/Son-of-Anton/assets/65698817/f14b03ed-0c7b-4de5-8c24-6cb0d7e547a1)
-![image](https://github.com/MrStrange09/Son-of-Anton/assets/65698817/1a575d62-6428-460f-af06-5219f91584fc)
-![image](https://github.com/MrStrange09/Son-of-Anton/assets/65698817/8533e579-1bd4-4d02-9d56-0a9aeceb42e5)
-![image](https://github.com/MrStrange09/Son-of-Anton/assets/65698817/01df843b-d14f-429c-a1d7-295b42cf8cb8)
-![image](https://github.com/MrStrange09/Son-of-Anton/assets/65698817/d2ea9e26-4bd7-49f9-b01f-cd7569355a0b)
+![image](https://github.com/MrStrange09/Son-of-Anton/assets/65698817/f076ff2e-fbd1-4217-8fad-a9ee6f49818b)
+![image](https://github.com/MrStrange09/Son-of-Anton/assets/65698817/c2247cce-f036-49c0-862e-e90eec52f554)
+![image](https://github.com/MrStrange09/Son-of-Anton/assets/65698817/e1e17cd6-1eb2-4f8a-aa5c-562e4cebe589)
+![image](https://github.com/MrStrange09/Son-of-Anton/assets/65698817/4680ed3d-66de-4ae1-8d9d-c0e9a549193f)
+![image](https://github.com/MrStrange09/Son-of-Anton/assets/65698817/6dbb5621-6c1a-4920-81f3-67bc0ef1f2e3)
+
+
+
+
 
 
 
